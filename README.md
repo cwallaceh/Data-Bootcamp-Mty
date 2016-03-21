@@ -8,6 +8,10 @@
 # Aprende ciencia de datos usando Python
 
 ## Temas:
+
+###0. Introducción a la ciencia de datos
+http://bit.ly/datasciencemtyintro
+
 ###1. Introducción a Python para la ciencia de datos:
 
 - Python es un lenguaje de programación de propósito general que se está volviendo más y más popular para hacer ciencia de datos.
